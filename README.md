@@ -1,2 +1,2 @@
 # Hyperskill-simpleChattyBot
-Hyperskill frontent dev track's first project
+Hyperskill 'frontent-dev' track simpleChattyBot project final solution
